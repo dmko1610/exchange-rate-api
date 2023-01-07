@@ -1,0 +1,22 @@
+{
+  "name": "exchange-rate-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmko1610/exchange-rate-api.git"
+  },
+  "author": "Dmitry Kovalev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmko1610/exchange-rate-api/issues"
+  },
+  "homepage": "https://github.com/dmko1610/exchange-rate-api#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
